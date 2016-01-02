@@ -59,7 +59,7 @@ void draw() {
     }
   }
   popMatrix();
-  ellipse(0, 0, 20, 20);
+  ellipse(0, 0, 30, 30);
   popMatrix();
 }
 
